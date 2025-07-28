@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038840540644",
+    "project_id": "community-reporter-5b628",
+    "storage_bucket": "community-reporter-5b628.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038840540644:android:4ca00ae25bbf85a3fd6bf1",
+        "android_client_info": {
+          "package_name": "com.example.community_reporter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1p48Pg8jKdsN02_xMWJe0nm9-EAT06H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
